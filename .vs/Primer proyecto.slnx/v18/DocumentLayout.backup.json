@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\services\\databaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\services\\databaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\views\\pagelistpersonas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\views\\pagelistpersonas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\views\\pagelistpersonas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\views\\pagelistpersonas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\views\\pageaddpersonas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\views\\pageaddpersonas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\views\\pageaddpersonas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\views\\pageaddpersonas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|c:\\users\\pc120\\downloads\\nueva carpeta\\primer proyecto\\primer proyecto\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78938E0E-5B01-6353-A307-69F5ED99894D}|Primer proyecto\\Primer proyecto.csproj|solutionrelative:primer proyecto\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\App.xaml.cs",
+              "RelativeToolTip": "Primer proyecto\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T02:21:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\App.xaml",
+              "RelativeDocumentMoniker": "Primer proyecto\\App.xaml",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\App.xaml",
+              "RelativeToolTip": "Primer proyecto\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-06T02:21:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Models\\Personas.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\Models\\Personas.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Models\\Personas.cs",
+              "RelativeToolTip": "Primer proyecto\\Models\\Personas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T01:53:06.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Services\\DatabaseServices.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\Services\\DatabaseServices.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Services\\DatabaseServices.cs",
+              "RelativeToolTip": "Primer proyecto\\Services\\DatabaseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T01:13:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Primer proyecto\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:53:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageListPersonas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageListPersonas.xaml.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\Views\\PageListPersonas.xaml.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageListPersonas.xaml.cs",
+              "RelativeToolTip": "Primer proyecto\\Views\\PageListPersonas.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T02:04:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageListPersonas.xaml",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageListPersonas.xaml",
+              "RelativeDocumentMoniker": "Primer proyecto\\Views\\PageListPersonas.xaml",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageListPersonas.xaml",
+              "RelativeToolTip": "Primer proyecto\\Views\\PageListPersonas.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-12T02:02:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageAddPersonas.xaml",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageAddPersonas.xaml",
+              "RelativeDocumentMoniker": "Primer proyecto\\Views\\PageAddPersonas.xaml",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageAddPersonas.xaml",
+              "RelativeToolTip": "Primer proyecto\\Views\\PageAddPersonas.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-06T01:55:05.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageAddPersonas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageAddPersonas.xaml.cs",
+              "RelativeDocumentMoniker": "Primer proyecto\\Views\\PageAddPersonas.xaml.cs",
+              "ToolTip": "C:\\Users\\PC120\\Downloads\\Nueva carpeta\\Primer proyecto\\Primer proyecto\\Views\\PageAddPersonas.xaml.cs",
+              "RelativeToolTip": "Primer proyecto\\Views\\PageAddPersonas.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T02:27:15.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
